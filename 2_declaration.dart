@@ -1,4 +1,4 @@
-// DECLARATION AND DISPLAY
+// 🌟 DECLARATION AND DISPLAY EXAMPLE
 
 void main() {
   // Numbers: int

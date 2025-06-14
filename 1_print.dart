@@ -1,4 +1,4 @@
-// BASIC OUTPUT TO DISPLAY
+// 🌟 BASIC OUTPUT TO DISPLAY EXAMPLE
 
 // This is the main function where program execution starts
 void main() {
