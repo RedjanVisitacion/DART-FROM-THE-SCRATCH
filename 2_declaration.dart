@@ -1,3 +1,4 @@
+// DECLARATION AND DISPLAY
 void main() {
   // Numbers: int
   int age = 19;
