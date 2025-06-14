@@ -13,7 +13,7 @@ void main() {
       name +
       ", age of " +
       age.toString() +
-      ".\nA " + // \n adds a line break togoat the next line..
+      ".\nA " + // \n adds a line break togo at the next line..
       program +
       " " +
       year +
